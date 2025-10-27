@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 
-# H2 my favorite series/movies
-The walking dead
-The witcher
-Game of throne
+# my favorite series/movies
+1. The walking dead
+2. The witcher
+3. Game of throne
